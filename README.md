@@ -18,3 +18,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/11MJE0nuwUeSn4mQ9fD19BN
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+Keys  mouse to move zoom in and out save and load game
